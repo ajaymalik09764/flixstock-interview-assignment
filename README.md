@@ -6,7 +6,7 @@ pip install opencv-python
 Ques 1 :- Problem Statement 1: Create Image
  
  
- cd create_image
+ cd create_image\n
  python create_image.py
  
  This will create i output.jpg into current folder.
